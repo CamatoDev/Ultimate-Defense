@@ -39,7 +39,9 @@ Ultimate Defense est un jeu mobile de type Tower Defense où le joueur doit emp�
 
 ## 📷 Screenshots
 
-*(Ajouter si tu veux montrer des captures depuis un téléphone ou émulateur)*
+![Level Selector](Screenshot_20250419_124342_com.VortexMakers.UltimateDefense.jpg)
+![In Game](Screenshot_20250419_124353_com.VortexMakers.UltimateDefense.jpg)
+![In Game zoom](Screenshot_20250419_124358_com.VortexMakers.UltimateDefense.jpg)
 
 ## 📌 Statut
 
